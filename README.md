@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/1-moon/videoEffect">
-    <img src="https://github.com/1-moon/videoEffect/Ui-project/outcome.PNG" alt="Logo" width="80" height="80">
+    <img src="https://github.com/1-moon/videoEffect/blob/main/Ui-project/outcome.PNG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">videoEffect</h3>
@@ -84,7 +84,7 @@ I'm currently working on releasing an executable so that you don't have to use `
 
 ## License
 
-Distributed under the Apache 2.0 License. See `LICENSE` for more information.
+..
 
 <!-- CONTACT -->
 

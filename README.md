@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/1-moon/videoEffect">
-    <img src="https://github.com/1-moon/videoEffect/blob/main/Ui-project/outcome.PNG" alt="Logo" width="80" height="80">
+    <img src="https://github.com/1-moon/videoEffect/blob/main/Ui-project/outcome.PNG" alt="outcome" width="200" height="200">
   </a>
 
   <h3 align="center">videoEffect</h3>

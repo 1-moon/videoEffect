@@ -8,7 +8,7 @@
   <h3 align="center">videoEffect</h3>
 
   <p align="center">
-    A video editting application made with C++ and Qt framework  
+    A video editting application made with C/C++ and Qt framework  
     <br />
     <br />
   </p>
